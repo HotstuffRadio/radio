@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ff4500;
+}
+
+audio {
+    width: 80%;
+    margin: 20px auto;
+}
