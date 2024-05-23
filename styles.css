@@ -7,7 +7,13 @@ h1 {
     color: #ff4500;
 }
 
-audio {
-    width: 80%;
-    margin: 20px auto;
+.radio-players {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.player {
+    flex: 1;
+    margin-right: 20px;
 }
