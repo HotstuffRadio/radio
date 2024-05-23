@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
 }
+body {
+    background-color: #FFFFE0; /* Pale yellow */
+}
+
 
 h1 {
     color: #ff4500;
